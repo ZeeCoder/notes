@@ -1,0 +1,3 @@
+ - https://github.com/es-shims/es5-shim
+ - http://tristanedwards.me/sweetalert
+ - http://gionkunz.github.io/chartist-js/

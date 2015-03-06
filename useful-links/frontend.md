@@ -1,0 +1,2 @@
+ - shame css: http://csswizardry.com/2013/04/shame-css/
+ - Font licence: http://graphicdesign.stackexchange.com/questions/523/do-i-need-to-license-fonts-included-with-my-os

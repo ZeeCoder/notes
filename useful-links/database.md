@@ -1,0 +1,3 @@
+ - Unicode ci: http://stackoverflow.com/questions/766809/whats-the-difference-between-utf8-general-ci-and-utf8-unicode-ci
+ - Doctrine Best practices: http://www.uvd.co.uk/blog/some-doctrine-2-best-practices/
+ - sequelPro -> graphviz -> png: http://mattlangtree.com/2011/11/15/erd-diagrams-from-sequel-pro/
