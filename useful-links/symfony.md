@@ -1,5 +1,5 @@
 #Symfony
- - Getting the current url:
+ - Getting the current url: (Careful, on 404 error pages it throws an Exception!)
 
  ```
  {{ path(
